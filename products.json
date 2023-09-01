@@ -7,13 +7,13 @@
     "description": "Screen Size\t16 Inches | Hard Disk Size\t512 GB | CPU Model\tM2Pro | RAM 16 GB",
     "isOff": true,
     "offPercentage": 12,
-    "productImage": "../../assets/laptops/mac/1.png",
+    "productImage": "./laptops/mac/1.png",
     "isAvailable": true,
     "productImageList": [
-      "../../assets/laptops/mac/1.png",
-      "../../assets/laptops/mac/2.png",
-      "../../assets/laptops/mac/3.png",
-      "../../assets/laptops/mac/4.png"
+      "./laptops/mac/1.png",
+      "./laptops/mac/2.png",
+      "./laptops/mac/3.png",
+      "./laptops/mac/4.png"
     ]
   },
   {
@@ -23,13 +23,13 @@
     "productPrice": 58990,
     "description": "Screen Size\t15.6 Inches | Colour\tArctic Grey | CPU Model\tCore i5 | RAM 16 GB",
     "isOff": false,
-    "productImage": "../../assets/laptops/lenovo/1.png",
+    "productImage": "./laptops/lenovo/1.png",
     "isAvailable": true,
     "productImageList": [
-      "../../assets/laptops/lenovo/1.png",
-      "../../assets/laptops/lenovo/2.png",
-      "../../assets/laptops/lenovo/3.png",
-      "../../assets/laptops/lenovo/4.png"
+      "./laptops/lenovo/1.png",
+      "./laptops/lenovo/2.png",
+      "./laptops/lenovo/3.png",
+      "./laptops/lenovo/4.png"
     ]
   },
   {
@@ -40,12 +40,12 @@
     "description": "Operating System\tiOS |\t5G | 6.1\" display | 48MP Main Camera | Cinematic mode",
     "isOff": true,
     "offPercentage": 25,
-    "productImage": "../../assets/mobiles/iphone/1.png",
+    "productImage": "./mobiles/iphone/1.png",
     "isAvailable": true,
     "productImageList": [
-      "../../assets/mobiles/iphone/1.png",
-      "../../assets/mobiles/iphone/2.png",
-      "../../assets/mobiles/iphone/3.png"
+      "./mobiles/iphone/1.png",
+      "./mobiles/iphone/2.png",
+      "./mobiles/iphone/3.png"
     ]
   },
   {
@@ -55,12 +55,12 @@
     "productPrice": 19999,
     "description": "Operating System\tOxygenOS | 8GB RAM | 128GB storage | Camera: 108 MP Main Camera with EIS",
     "isOff": false,
-    "productImage": "../../assets/mobiles/oneplus/1.png",
+    "productImage": "./mobiles/oneplus/1.png",
     "isAvailable": true,
     "productImageList": [
-      "../../assets/mobiles/oneplus/1.png",
-      "../../assets/mobiles/oneplus/2.png",
-      "../../assets/mobiles/oneplus/3.png"
+      "./mobiles/oneplus/1.png",
+      "./mobiles/oneplus/2.png",
+      "./mobiles/oneplus/3.png"
     ]
   },
   {
@@ -70,12 +70,12 @@
     "productPrice": 79999,
     "description": "6.1\" Super Retina display | 12GB RAM | 256GB Storage | 50MP Camera",
     "isOff": false,
-    "productImage": "../../assets/mobiles/mi/1.png",
+    "productImage": "./mobiles/mi/1.png",
     "isAvailable": true,
     "productImageList": [
-      "../../assets/mobiles/mi/1.png",
-      "../../assets/mobiles/mi/2.png",
-      "../../assets/mobiles/mi/3.png"
+      "./mobiles/mi/1.png",
+      "./mobiles/mi/2.png",
+      "./mobiles/mi/3.png"
     ]
   },
   {
@@ -85,12 +85,12 @@
     "productPrice": 124999,
     "description": "6.8\" inch display | 12GB RAM | 256GB Storage | S-Pen | 200MP Camera ",
     "isOff": false,
-    "productImage": "../../assets/mobiles/samsung/1.png",
+    "productImage": "./mobiles/samsung/1.png",
     "isAvailable": false,
     "productImageList": [
-      "../../assets/mobiles/samsung/1.png",
-      "../../assets/mobiles/samsung/2.png",
-      "../../assets/mobiles/samsung/3.png"
+      "./mobiles/samsung/1.png",
+      "./mobiles/samsung/2.png",
+      "./mobiles/samsung/3.png"
     ]
   }
 ]
