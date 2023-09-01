@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "category": "laptop",
+    "productName": "Apple 2023 MacBook Pro Laptop M2 Pro chip ",
+    "productPrice": 269900,
+    "description": "Screen Size\t16 Inches | Hard Disk Size\t512 GB | CPU Model\tM2Pro | RAM 16 GB",
+    "isOff": true,
+    "offPercentage": 12,
+    "productImage": "../../assets/laptops/mac/1.png",
+    "isAvailable": true,
+    "productImageList": [
+      "../../assets/laptops/mac/1.png",
+      "../../assets/laptops/mac/2.png",
+      "../../assets/laptops/mac/3.png",
+      "../../assets/laptops/mac/4.png"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "laptop",
+    "productName": "Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen",
+    "productPrice": 58990,
+    "description": "Screen Size\t15.6 Inches | Colour\tArctic Grey | CPU Model\tCore i5 | RAM 16 GB",
+    "isOff": false,
+    "productImage": "../../assets/laptops/lenovo/1.png",
+    "isAvailable": true,
+    "productImageList": [
+      "../../assets/laptops/lenovo/1.png",
+      "../../assets/laptops/lenovo/2.png",
+      "../../assets/laptops/lenovo/3.png",
+      "../../assets/laptops/lenovo/4.png"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "mobile",
+    "productName": "Apple iPhone 14 (128 GB)",
+    "productPrice": 67999,
+    "description": "Operating System\tiOS |\t5G | 6.1\" display | 48MP Main Camera | Cinematic mode",
+    "isOff": true,
+    "offPercentage": 25,
+    "productImage": "../../assets/mobiles/iphone/1.png",
+    "isAvailable": true,
+    "productImageList": [
+      "../../assets/mobiles/iphone/1.png",
+      "../../assets/mobiles/iphone/2.png",
+      "../../assets/mobiles/iphone/3.png"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "mobile",
+    "productName": "OnePlus Nord CE 3 Lite 5G",
+    "productPrice": 19999,
+    "description": "Operating System\tOxygenOS | 8GB RAM | 128GB storage | Camera: 108 MP Main Camera with EIS",
+    "isOff": false,
+    "productImage": "../../assets/mobiles/oneplus/1.png",
+    "isAvailable": true,
+    "productImageList": [
+      "../../assets/mobiles/oneplus/1.png",
+      "../../assets/mobiles/oneplus/2.png",
+      "../../assets/mobiles/oneplus/3.png"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "mobile",
+    "productName": "Xiaomi 13 Pro (Ceramic Black)",
+    "productPrice": 79999,
+    "description": "6.1\" Super Retina display | 12GB RAM | 256GB Storage | 50MP Camera",
+    "isOff": false,
+    "productImage": "../../assets/mobiles/mi/1.png",
+    "isAvailable": true,
+    "productImageList": [
+      "../../assets/mobiles/mi/1.png",
+      "../../assets/mobiles/mi/2.png",
+      "../../assets/mobiles/mi/3.png"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "mobile",
+    "productName": "Samsung Galaxy S23 Ultra 5G",
+    "productPrice": 124999,
+    "description": "6.8\" inch display | 12GB RAM | 256GB Storage | S-Pen | 200MP Camera ",
+    "isOff": false,
+    "productImage": "../../assets/mobiles/samsung/1.png",
+    "isAvailable": false,
+    "productImageList": [
+      "../../assets/mobiles/samsung/1.png",
+      "../../assets/mobiles/samsung/2.png",
+      "../../assets/mobiles/samsung/3.png"
+    ]
+  }
+]
